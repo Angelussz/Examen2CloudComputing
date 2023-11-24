@@ -1,0 +1,1557 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "type": "text",
+      "version": 121,
+      "versionNonce": 683265722,
+      "isDeleted": false,
+      "id": "NXZbfPSdtzFiWOv6JFACL",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 517.75,
+      "y": 1449.25,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "width": 444.4921569824219,
+      "height": 45,
+      "seed": 1362908449,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "WUGVbuEYKbqho9fn4Zvc8",
+          "type": "arrow"
+        },
+        {
+          "id": "97Lc2LqaP3vDvYCJLYXLy",
+          "type": "arrow"
+        },
+        {
+          "id": "3QHslK56QUf2O-EeR6WN9",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700842718674,
+      "link": null,
+      "locked": false,
+      "fontSize": 36,
+      "fontFamily": 1,
+      "text": "Borg,Omega y Kubernetes",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Borg,Omega y Kubernetes",
+      "lineHeight": 1.25,
+      "baseline": 32
+    },
+    {
+      "type": "text",
+      "version": 145,
+      "versionNonce": 865800678,
+      "isDeleted": false,
+      "id": "oPcACMaQazC9xgFBmvXcY",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1189.5,
+      "y": 1072.25,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 616.3192749023438,
+      "height": 100,
+      "seed": 1483479375,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "XN2dA4mrDfHyJOcdewzQ-",
+          "type": "arrow"
+        },
+        {
+          "id": "_ii-aFx6mUbw03LbT1mRb",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700842718675,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Se creó para gestionar tanto los servicios de larga duración \ncomo los trabajos por lotes. que antes se \ngestionaba por estos 2 sistemas por separado: \nBabysitter y Global Work Queue. ",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Se creó para gestionar tanto los servicios de larga duración \ncomo los trabajos por lotes. que antes se \ngestionaba por estos 2 sistemas por separado: \nBabysitter y Global Work Queue. ",
+      "lineHeight": 1.25,
+      "baseline": 93
+    },
+    {
+      "type": "text",
+      "version": 19,
+      "versionNonce": 885254010,
+      "isDeleted": false,
+      "id": "r-6D2tkx_cQuIlLSh5xZ0",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1011.5,
+      "y": 1240.75,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 61.93626403808594,
+      "height": 35,
+      "seed": 1896963439,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "XN2dA4mrDfHyJOcdewzQ-",
+          "type": "arrow"
+        },
+        {
+          "id": "WUGVbuEYKbqho9fn4Zvc8",
+          "type": "arrow"
+        },
+        {
+          "id": "UJrONFKLN7RPfC42iVDem",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700842718675,
+      "link": null,
+      "locked": false,
+      "fontSize": 28,
+      "fontFamily": 1,
+      "text": "Borg",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Borg",
+      "lineHeight": 1.25,
+      "baseline": 25
+    },
+    {
+      "type": "text",
+      "version": 280,
+      "versionNonce": 1466688806,
+      "isDeleted": false,
+      "id": "DFy6vozqdo-WD-tLuKNdk",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1785.25,
+      "y": 867,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 480.7593994140625,
+      "height": 100,
+      "seed": 168355087,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "_ii-aFx6mUbw03LbT1mRb",
+          "type": "arrow"
+        },
+        {
+          "id": "mbwV-39TxdFHiE1ezu9jy",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700842718675,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Borg comparte máquinas entre estos dos \ntipos de aplicaciones de aumentar la utilización \nde recursos y reducir así \nlos costes.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Borg comparte máquinas entre estos dos \ntipos de aplicaciones de aumentar la utilización \nde recursos y reducir así \nlos costes.",
+      "lineHeight": 1.25,
+      "baseline": 93
+    },
+    {
+      "type": "arrow",
+      "version": 174,
+      "versionNonce": 294447162,
+      "isDeleted": false,
+      "id": "XN2dA4mrDfHyJOcdewzQ-",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1062.1219870122595,
+      "y": 1233.25,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 122.62801298774048,
+      "height": 105.11965843262738,
+      "seed": 1192260769,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1700842718675,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "r-6D2tkx_cQuIlLSh5xZ0",
+        "focus": -0.3029790258010323,
+        "gap": 2.5
+      },
+      "endBinding": {
+        "elementId": "oPcACMaQazC9xgFBmvXcY",
+        "focus": 0.8350896597576145,
+        "gap": 4.75
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          122.62801298774048,
+          -105.11965843262738
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 304,
+      "versionNonce": 1212174438,
+      "isDeleted": false,
+      "id": "_ii-aFx6mUbw03LbT1mRb",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1639.6076961937706,
+      "y": 1057,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 161.68439745690603,
+      "height": 89,
+      "seed": 1996640897,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1700842718675,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "oPcACMaQazC9xgFBmvXcY",
+        "focus": 0.01926062035142072,
+        "gap": 15.25
+      },
+      "endBinding": {
+        "elementId": "DFy6vozqdo-WD-tLuKNdk",
+        "focus": 0.39758930190982533,
+        "gap": 1
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          161.68439745690603,
+          -89
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 27,
+      "versionNonce": 385339642,
+      "isDeleted": false,
+      "id": "WUGVbuEYKbqho9fn4Zvc8",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 941.5,
+      "y": 1438.25,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 78.75,
+      "height": 146.25,
+      "seed": 916458177,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1700842718675,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "NXZbfPSdtzFiWOv6JFACL",
+        "focus": 0.7828311768427609,
+        "gap": 11
+      },
+      "endBinding": {
+        "elementId": "r-6D2tkx_cQuIlLSh5xZ0",
+        "focus": 0.24826867346719103,
+        "gap": 11.25
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          78.75,
+          -146.25
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "version": 49,
+      "versionNonce": 1373983654,
+      "isDeleted": false,
+      "id": "ZBcehybB0Su2CKg-V57Qq",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 2407.75,
+      "y": 688.25,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 500.8594055175781,
+      "height": 75,
+      "seed": 444389487,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "mbwV-39TxdFHiE1ezu9jy",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700842718675,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Lo que permitía un mejor aislamiento \nentre los servicios sensibles a la latencia \ny los procesos por lotes que consumen mucha CPU.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Lo que permitía un mejor aislamiento \nentre los servicios sensibles a la latencia \ny los procesos por lotes que consumen mucha CPU.",
+      "lineHeight": 1.25,
+      "baseline": 68
+    },
+    {
+      "type": "arrow",
+      "version": 31,
+      "versionNonce": 679977402,
+      "isDeleted": false,
+      "id": "mbwV-39TxdFHiE1ezu9jy",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 2219,
+      "y": 860.75,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 180,
+      "height": 111.25,
+      "seed": 2106372335,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1700842718676,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "DFy6vozqdo-WD-tLuKNdk",
+        "focus": 0.31859909732163594,
+        "gap": 6.25
+      },
+      "endBinding": {
+        "elementId": "ZBcehybB0Su2CKg-V57Qq",
+        "focus": 0.7095789053293872,
+        "gap": 8.75
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          180,
+          -111.25
+        ]
+      ]
+    },
+    {
+      "id": "UJrONFKLN7RPfC42iVDem",
+      "type": "arrow",
+      "x": 1102.935090951612,
+      "y": 1271.434072805126,
+      "width": 127.77777777777783,
+      "height": 5.555555555555429,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 766134438,
+      "version": 36,
+      "versionNonce": 1049095910,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700842718676,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          127.77777777777783,
+          5.555555555555429
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "r-6D2tkx_cQuIlLSh5xZ0",
+        "focus": 0.45147563137244423,
+        "gap": 11.80305664985417
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "AUCPhqVLOyIsjguhM5dSA",
+      "type": "text",
+      "x": 1247.3795353960563,
+      "y": 1259.211850582904,
+      "width": 383.01953125,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 637589242,
+      "version": 117,
+      "versionNonce": 1096768122,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "GzdTm1bhgUOWpdRCF44vV",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700842718676,
+      "link": null,
+      "locked": false,
+      "text": "Mientras mas apps estaban creadas\nsobre borg, más herramientas tuvieron \nque agregarlos",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 68,
+      "containerId": null,
+      "originalText": "Mientras mas apps estaban creadas\nsobre borg, más herramientas tuvieron \nque agregarlos",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "GzdTm1bhgUOWpdRCF44vV",
+      "type": "arrow",
+      "x": 1644.046202062723,
+      "y": 1262.5451839162372,
+      "width": 107.77777777777783,
+      "height": 31.111111111111086,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 667244198,
+      "version": 57,
+      "versionNonce": 179642918,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700842718676,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          107.77777777777783,
+          -31.111111111111086
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "AUCPhqVLOyIsjguhM5dSA",
+        "focus": 0.27003197129094275,
+        "gap": 13.647135416666742
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "HZKcWw4OPQcxuuDlpD8Kc",
+      "type": "text",
+      "x": 1794.0462020627226,
+      "y": 1194.7674061384596,
+      "width": 404.6394958496094,
+      "height": 200,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1651022586,
+      "version": 329,
+      "versionNonce": 425323878,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700842718676,
+      "link": null,
+      "locked": false,
+      "text": "- Gestion de cuota, ciclo de vida\n- Autoescalado\n- Prediccion necesidades de recursos\n- descubrir servicios y equilibrio de carga\n- Pasar archivos de configuración a los\ntrabajjos en ejecución\n- Gestionar y configurar trabajos\n",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 193,
+      "containerId": null,
+      "originalText": "- Gestion de cuota, ciclo de vida\n- Autoescalado\n- Prediccion necesidades de recursos\n- descubrir servicios y equilibrio de carga\n- Pasar archivos de configuración a los\ntrabajjos en ejecución\n- Gestionar y configurar trabajos\n",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "97Lc2LqaP3vDvYCJLYXLy",
+      "type": "arrow",
+      "x": 975.157313173834,
+      "y": 1483.6562950273485,
+      "width": 148.8888888888888,
+      "height": 36.66666666666674,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2050515066,
+      "version": 34,
+      "versionNonce": 865240058,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700842718677,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          148.8888888888888,
+          36.66666666666674
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "NXZbfPSdtzFiWOv6JFACL",
+        "focus": -0.5956909243760973,
+        "gap": 12.915156191412166
+      },
+      "endBinding": {
+        "elementId": "e-9uX6aDLyHzGC0kz_2gp",
+        "focus": -0.4062575211717809,
+        "gap": 4.444444444444571
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "e-9uX6aDLyHzGC0kz_2gp",
+      "type": "text",
+      "x": 1128.4906465071674,
+      "y": 1503.100739471793,
+      "width": 86.07235717773438,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1355768870,
+      "version": 29,
+      "versionNonce": 1740853414,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "97Lc2LqaP3vDvYCJLYXLy",
+          "type": "arrow"
+        },
+        {
+          "id": "2wOhqQiyZYdlz0h1QLOgl",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700842718677,
+      "link": null,
+      "locked": false,
+      "text": "Omega",
+      "fontSize": 28,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 25,
+      "containerId": null,
+      "originalText": "Omega",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "2wOhqQiyZYdlz0h1QLOgl",
+      "type": "arrow",
+      "x": 1228.4906465071674,
+      "y": 1533.6562950273485,
+      "width": 98.88888888888891,
+      "height": 16.666666666666742,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1385249274,
+      "version": 33,
+      "versionNonce": 1700000954,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700842718677,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          98.88888888888891,
+          -16.666666666666742
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "e-9uX6aDLyHzGC0kz_2gp",
+        "focus": 0.9152803915172227,
+        "gap": 13.927642822265625
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "mKLXapuEnVYVctrkTAY4g",
+      "type": "text",
+      "x": 1349.6017576182785,
+      "y": 1475.3229616940152,
+      "width": 411.95953369140625,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1477501606,
+      "version": 253,
+      "versionNonce": 1100893158,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "lOuCiD6nNcyeCvPNwWiYH",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700842718677,
+      "link": null,
+      "locked": false,
+      "text": "Guarda el estado de los clusters \nen un almacen centralizado orientado\na transacciones basado en Paxos que\nson accedidos de diferentes partes del\ncontrol de cluster como los planificadores",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 118,
+      "containerId": null,
+      "originalText": "Guarda el estado de los clusters \nen un almacen centralizado orientado\na transacciones basado en Paxos que\nson accedidos de diferentes partes del\ncontrol de cluster como los planificadores",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "V_EOcesvRvWdrra_HScRt",
+      "type": "text",
+      "x": 1857.3795353960563,
+      "y": 1472.5451839162374,
+      "width": 429.27947998046875,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 418778022,
+      "version": 155,
+      "versionNonce": 1216848186,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "lOuCiD6nNcyeCvPNwWiYH",
+          "type": "arrow"
+        },
+        {
+          "id": "GIrquUlqVKGkTvial-AYV",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700842718679,
+      "link": null,
+      "locked": false,
+      "text": "Con enfoque en concurrencia optimista para\nsolucionar conflictos",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 43,
+      "containerId": null,
+      "originalText": "Con enfoque en concurrencia optimista para\nsolucionar conflictos",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "lOuCiD6nNcyeCvPNwWiYH",
+      "type": "arrow",
+      "x": 1773.7816892589026,
+      "y": 1531.1663666458999,
+      "width": 81.37562391493066,
+      "height": 14.812905753246014,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1398190202,
+      "version": 274,
+      "versionNonce": 506046310,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700842718679,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          81.37562391493066,
+          -14.812905753246014
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "mKLXapuEnVYVctrkTAY4g",
+        "focus": 0.33823799114944025,
+        "gap": 12.22039794921784
+      },
+      "endBinding": {
+        "elementId": "V_EOcesvRvWdrra_HScRt",
+        "focus": 0.32256918792208994,
+        "gap": 2.222222222223081
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "GIrquUlqVKGkTvial-AYV",
+      "type": "arrow",
+      "x": 1965.157313173832,
+      "y": 1533.6562950273492,
+      "width": 4.444444444444571,
+      "height": 95.55555555555543,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 586307942,
+      "version": 69,
+      "versionNonce": 1882417658,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700842718679,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4.444444444444571,
+          95.55555555555543
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "V_EOcesvRvWdrra_HScRt",
+        "focus": 0.5029669875963491,
+        "gap": 11.111111111111768
+      },
+      "endBinding": {
+        "elementId": "Z1jOSUxALPXyOnbLAcuQ2",
+        "focus": -0.43253874442538975,
+        "gap": 15.555555555555657
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "Z1jOSUxALPXyOnbLAcuQ2",
+      "type": "text",
+      "x": 1826.2684242849434,
+      "y": 1644.7674061384603,
+      "width": 510.659423828125,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1166512698,
+      "version": 98,
+      "versionNonce": 1854655142,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "GIrquUlqVKGkTvial-AYV",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700842718679,
+      "link": null,
+      "locked": false,
+      "text": "Esto permitio trabajar en pares en vez de monolito",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Esto permitio trabajar en pares en vez de monolito",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "GMR927Q6peyhClGwWPQ0K",
+      "type": "text",
+      "x": 1079.6017576182758,
+      "y": 1674.2118505829035,
+      "width": 145.85263061523438,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1879240058,
+      "version": 34,
+      "versionNonce": 1602083174,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "3QHslK56QUf2O-EeR6WN9",
+          "type": "arrow"
+        },
+        {
+          "id": "7j-lwm_WCj5XpfaCkcW52",
+          "type": "arrow"
+        },
+        {
+          "id": "HGX7kFO0wE_OosVr-u6By",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700844552898,
+      "link": null,
+      "locked": false,
+      "text": "kubernetes",
+      "fontSize": 28,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 25,
+      "containerId": null,
+      "originalText": "kubernetes",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "3QHslK56QUf2O-EeR6WN9",
+      "type": "arrow",
+      "x": 866.2684242849423,
+      "y": 1501.4340728051257,
+      "width": 200,
+      "height": 176.66666666666652,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 825308518,
+      "version": 55,
+      "versionNonce": 222791142,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700842718679,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          200,
+          176.66666666666652
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "NXZbfPSdtzFiWOv6JFACL",
+        "focus": -0.37408593093796827,
+        "gap": 7.184072805125652
+      },
+      "endBinding": {
+        "elementId": "GMR927Q6peyhClGwWPQ0K",
+        "focus": -0.7550392817223855,
+        "gap": 13.333333333333485
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "7j-lwm_WCj5XpfaCkcW52",
+      "type": "arrow",
+      "x": 1237.3795353960522,
+      "y": 1686.9896283606818,
+      "width": 111.11111111111131,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2073572410,
+      "version": 31,
+      "versionNonce": 1504293542,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700842722833,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          111.11111111111131,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "GMR927Q6peyhClGwWPQ0K",
+        "focus": -0.26984126984124096,
+        "gap": 11.925147162542089
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "cL5ngRnhQUvFC8DgDdPZG",
+      "type": "text",
+      "x": 1362.9350909516077,
+      "y": 1691.9896283606813,
+      "width": 571.859375,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 224840762,
+      "version": 421,
+      "versionNonce": 1500676006,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "4YGrx-5NB6b1pBb_BuM7w",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700844337408,
+      "link": null,
+      "locked": false,
+      "text": "Igual que omega, kubernetes tiene en su nucleo\nun almacen compartido, con componentes que vigi\nlan objetos relevantes. Pero a diferencia de omega\nkubernetes hace acceder a sus componentes de confianza\nmediante un Dominio.",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 118,
+      "containerId": null,
+      "originalText": "Igual que omega, kubernetes tiene en su nucleo\nun almacen compartido, con componentes que vigi\nlan objetos relevantes. Pero a diferencia de omega\nkubernetes hace acceder a sus componentes de confianza\nmediante un Dominio.",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "0iis02Gf7Z-0TndWI3Yw7",
+      "type": "text",
+      "x": 2032.935090951608,
+      "y": 1742.5451839162372,
+      "width": 362.61956787109375,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1563028390,
+      "version": 109,
+      "versionNonce": 248855398,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "4YGrx-5NB6b1pBb_BuM7w",
+          "type": "arrow"
+        },
+        {
+          "id": "KqhzeRRcpF_A0nd0Glz5U",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700844348218,
+      "link": null,
+      "locked": false,
+      "text": "El estado de kubernetes se accede \nexclusivamente mediante una API",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 43,
+      "containerId": null,
+      "originalText": "El estado de kubernetes se accede \nexclusivamente mediante una API",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "4YGrx-5NB6b1pBb_BuM7w",
+      "type": "arrow",
+      "x": 1955.15731317383,
+      "y": 1742.545183916237,
+      "width": 73.33333333333348,
+      "height": 21.111111111111313,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 814370042,
+      "version": 34,
+      "versionNonce": 865049318,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700844337408,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          73.33333333333348,
+          21.111111111111313
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "cL5ngRnhQUvFC8DgDdPZG",
+        "focus": -0.6913709720120815,
+        "gap": 20.3628472222224
+      },
+      "endBinding": {
+        "elementId": "0iis02Gf7Z-0TndWI3Yw7",
+        "focus": -0.6423428787500747,
+        "gap": 4.444444444444343
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "KqhzeRRcpF_A0nd0Glz5U",
+      "type": "arrow",
+      "x": 2408.490646507163,
+      "y": 1773.656295027348,
+      "width": 185.5555555555552,
+      "height": 26.666666666666742,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 150378490,
+      "version": 43,
+      "versionNonce": 383987834,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "bhgXNwstuY34UjQTimXNl"
+        }
+      ],
+      "updated": 1700844441407,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          185.5555555555552,
+          -26.666666666666742
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "0iis02Gf7Z-0TndWI3Yw7",
+        "focus": 0.6664513595768559,
+        "gap": 12.935987684461452
+      },
+      "endBinding": {
+        "elementId": "mdsUc6WSjINObMwaT609d",
+        "focus": 0.325359504181768,
+        "gap": 24.444444444444343
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "bhgXNwstuY34UjQTimXNl",
+      "type": "text",
+      "x": 2473.158461821562,
+      "y": 1747.8229616940148,
+      "width": 56.21992492675781,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 253630950,
+      "version": 7,
+      "versionNonce": 1044147386,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700844350970,
+      "link": null,
+      "locked": false,
+      "text": "aplica",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "KqhzeRRcpF_A0nd0Glz5U",
+      "originalText": "aplica",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "mdsUc6WSjINObMwaT609d",
+      "type": "text",
+      "x": 2618.4906465071626,
+      "y": 1681.4340728051257,
+      "width": 410.03948974609375,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 2010682042,
+      "version": 149,
+      "versionNonce": 1658523962,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "KqhzeRRcpF_A0nd0Glz5U",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700844441407,
+      "link": null,
+      "locked": false,
+      "text": "-Versionado de alto nivel\n- Validación\n- Semantica\n- Política\n- En apoyo a un conjunto más de clientes",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 118,
+      "containerId": null,
+      "originalText": "-Versionado de alto nivel\n- Validación\n- Semantica\n- Política\n- En apoyo a un conjunto más de clientes",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "HGX7kFO0wE_OosVr-u6By",
+      "type": "arrow",
+      "x": 1181.8239798404966,
+      "y": 1719.2118505829028,
+      "width": 230.1111111111111,
+      "height": 268.11874758707336,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 958368442,
+      "version": 199,
+      "versionNonce": 1230295226,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "bO9s1AA1J0yNcDjo6mYg7"
+        }
+      ],
+      "updated": 1700844681034,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          54.44444444444434,
+          131.1111111111111
+        ],
+        [
+          230.1111111111111,
+          268.11874758707336
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "GMR927Q6peyhClGwWPQ0K",
+        "focus": -0.22291666899358234,
+        "gap": 9.999999999999318
+      },
+      "endBinding": {
+        "elementId": "WVvsFVJszEIQRZR3yBpKw",
+        "focus": -0.9004663964163885,
+        "gap": 1
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "bO9s1AA1J0yNcDjo6mYg7",
+      "type": "text",
+      "x": 1199.1184685354292,
+      "y": 1837.8229616940139,
+      "width": 74.29991149902344,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1214008698,
+      "version": 14,
+      "versionNonce": 444023974,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1700844588388,
+      "link": null,
+      "locked": false,
+      "text": "enfoque",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "HGX7kFO0wE_OosVr-u6By",
+      "originalText": "enfoque",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "WVvsFVJszEIQRZR3yBpKw",
+      "type": "text",
+      "x": 1412.9350909516077,
+      "y": 1911.434072805125,
+      "width": 472.679443359375,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 445234342,
+      "version": 146,
+      "versionNonce": 1568595962,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "HGX7kFO0wE_OosVr-u6By",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1700844681032,
+      "link": null,
+      "locked": false,
+      "text": "Aplicaciones ejecuten en clusters, objetivo\nes despliegue y gestion de sistemas distribuidos\ncomplejos\n",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 93,
+      "containerId": null,
+      "originalText": "Aplicaciones ejecuten en clusters, objetivo\nes despliegue y gestion de sistemas distribuidos\ncomplejos\n",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
